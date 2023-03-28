@@ -2,7 +2,7 @@
 @section('content')
 	{{-- bagian content --}}
 	<section>
-		<h1>test home</h1>
+		<h1>ini about</h1>
 	</section>	
 @endsection
 
